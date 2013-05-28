@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Icm.Core</id>
+    <version>1.0.0</version>
+    <title>ICM Data Class Library</title>
+    <authors>Ignacio Calvo Martínez</authors>
+    <owners>Ignacio Calvo Martínez</owners>
+    <licenseUrl>http://bitbucket.org/icalvo/icm.data</licenseUrl>
+    <projectUrl>http://bitbucket.org/icalvo/icm.data</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Entity Framework utility class library</description>
+    <releaseNotes />
+    <tags>Icm Data Class Library</tags>
+    <dependencies>
+      <dependency id="Ninject" version="3.0.1.10" />
+    </dependencies>
+  </metadata>
+</package>
